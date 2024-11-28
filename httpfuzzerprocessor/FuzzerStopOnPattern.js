@@ -1,4 +1,4 @@
-var regexPattern = /incorrect password/i; // modify this as you want
+var regexPattern = /302/i; // modify this as you want
 var pattern_should_match = false // false if you want to actually NOT match the pattern
 function processMessage(utils, message) {
      // No processing required for the request.
